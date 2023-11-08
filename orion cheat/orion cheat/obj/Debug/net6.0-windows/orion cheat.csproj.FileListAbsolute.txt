@@ -1,0 +1,16 @@
+C:\Users\timot\source\repos\orion cheat\orion cheat\bin\Debug\net6.0-windows\orion cheat.exe
+C:\Users\timot\source\repos\orion cheat\orion cheat\bin\Debug\net6.0-windows\orion cheat.deps.json
+C:\Users\timot\source\repos\orion cheat\orion cheat\bin\Debug\net6.0-windows\orion cheat.runtimeconfig.json
+C:\Users\timot\source\repos\orion cheat\orion cheat\bin\Debug\net6.0-windows\orion cheat.dll
+C:\Users\timot\source\repos\orion cheat\orion cheat\bin\Debug\net6.0-windows\orion cheat.pdb
+C:\Users\timot\source\repos\orion cheat\orion cheat\obj\Debug\net6.0-windows\orion_cheat.Form1.resources
+C:\Users\timot\source\repos\orion cheat\orion cheat\obj\Debug\net6.0-windows\orion cheat.csproj.GenerateResource.cache
+C:\Users\timot\source\repos\orion cheat\orion cheat\obj\Debug\net6.0-windows\orion cheat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timot\source\repos\orion cheat\orion cheat\obj\Debug\net6.0-windows\orion cheat.AssemblyInfoInputs.cache
+C:\Users\timot\source\repos\orion cheat\orion cheat\obj\Debug\net6.0-windows\orion cheat.AssemblyInfo.cs
+C:\Users\timot\source\repos\orion cheat\orion cheat\obj\Debug\net6.0-windows\orion cheat.csproj.CoreCompileInputs.cache
+C:\Users\timot\source\repos\orion cheat\orion cheat\obj\Debug\net6.0-windows\orion cheat.dll
+C:\Users\timot\source\repos\orion cheat\orion cheat\obj\Debug\net6.0-windows\refint\orion cheat.dll
+C:\Users\timot\source\repos\orion cheat\orion cheat\obj\Debug\net6.0-windows\orion cheat.pdb
+C:\Users\timot\source\repos\orion cheat\orion cheat\obj\Debug\net6.0-windows\orion cheat.genruntimeconfig.cache
+C:\Users\timot\source\repos\orion cheat\orion cheat\obj\Debug\net6.0-windows\ref\orion cheat.dll
